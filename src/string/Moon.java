@@ -25,6 +25,7 @@ public class Moon {
 //		System.out.println(m1==m2);
 		
 		System.out.println(m1.equals(m2));
+		
 	}
 
 }
