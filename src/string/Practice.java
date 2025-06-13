@@ -158,6 +158,7 @@ public class Practice {
 		return s1.substring(0, i);
 		
 	}
+	
 	public static void printStrings(String[] s)
 	{
 		Arrays.sort(s);
